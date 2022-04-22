@@ -1,0 +1,9 @@
+From,To,Distance,Travel Time,Airfare
+Delhi,Mumbai,1148,02:10,INR 6000
+Delhi,London,6704,08:55,INR 37000
+Delhi,Frankfurt,6117,08:35,INR 32000
+Los Angeles,Tokyo,8773,11:15,USD 520
+Frankfurt,London,660,01:25,EUR 155
+London,Sydney,6704,08:55,GBP 600
+London,San Francisco,8620,11:05,GBP 345
+San Francisco,Sydney,11935,14:35,USD 450

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+   <script>
+      function toggleLight() {
+         var bulb = document.getElementById("bulb")
+         var src = bulb.src;
+         console.log(src);
+         if(src === "http://127.0.0.1:5500/liveJFSWGit/3%20JAVASCRIPT/off.gif")
+         {
+            bulb.src = "http://127.0.0.1:5500/liveJFSWGit/3%20JAVASCRIPT/on.gif"
+         }
+         else
+         {
+            bulb.src = "http://127.0.0.1:5500/liveJFSWGit/3%20JAVASCRIPT/off.gif"
+         }
+      }
+   </script>
+</head>
+<body>
+   <img id= "bulb" src="off.gif" onclick="toggleLight()">
+</body>
+</html>

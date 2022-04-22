@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Document</title>
+
+</head>
+// display body html content in an alert.
+<body id ="bodyElem">
+   <p id="loremPara"><b>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum modi quae veritatis dignissimos, perferendis vel natus, iste error voluptas rem porro deserunt. Sunt delectus ratione nisi consequuntur exercitationem, eius facilis.</b></p>
+</body>
+
+<script>
+   // get inner html
+   var loremPara = document.getElementById("loremPara")
+   console.log(loremPara.innerHTML)
+console.log('************')
+// get inner text
+   console.log(loremPara.innerText)
+   console.log('************')
+   // console.log(document.getElementById("bodyElem").innerHTML);
+// update the html content
+   alert("modify html content")
+   // loremPara.innerHTML = "<span style='color:red'>Today's Date : " + Date(); + "</span>"
+   alert("to green")
+   loremPara.style.color="green"
+ </script>
+</html>
