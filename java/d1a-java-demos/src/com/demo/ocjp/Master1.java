@@ -1,3 +1,5 @@
+
+package com.demo.ocjp;
 // it should be an abstract class
 abstract class Test9 {
    // Abstract methods do not specify a body

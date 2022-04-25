@@ -36,7 +36,7 @@ public class FontReader {
 			}
 		} catch (Exception exception) {
 			System.err.println(">>>>  " + exception);
-		} 
+		}
 		return recordCount;
 	}
 
@@ -83,19 +83,25 @@ public class FontReader {
 
 	public static void printRecords(String fileName) {
 		// arrays are of fixed size
-		// ProductModel[] productModels = new ProductModel[countOfProductRecords("products.csv")];
+		// ProductModel[] productModels = new
+		// ProductModel[countOfProductRecords("products.csv")];
 		try {
 			File file = new File(fileName);
 			Scanner scanner = new Scanner(file);
 			int idx = 0;
-			//ignore the first row
-			String headerString =  scanner.nextLine();
-			
+			// ignore the first row
+			String headerString = scanner.nextLine();
+
 			while (scanner.hasNextLine()) {
-System.err.println("<li>"+scanner.nextLine()+"</li>");
-			}	
+				String lineString = scanner.nextLine();
+				if(lineString.contains("<p>"))
+				System.err.println("<u>" + lineString + "</u>");
+				else {
+					System.out.println(lineString);
+				}
+			}
 		} catch (Exception exception) {
-			System.err.println(">>>>  " + exception);
+			System.out.println(">>>>  " + exception);
 			exception.printStackTrace();
 		}
 	}
@@ -107,9 +113,9 @@ System.err.println("<li>"+scanner.nextLine()+"</li>");
 			File file = new File(fileName);
 			Scanner scanner = new Scanner(file);
 			int idx = 0;
-			//ignore the first row
-			String headerString =  scanner.nextLine();
-			
+			// ignore the first row
+			String headerString = scanner.nextLine();
+
 			while (scanner.hasNextLine()) {
 				String recordString = scanner.nextLine();
 				String fields[] = recordString.split(",");
@@ -125,10 +131,10 @@ System.err.println("<li>"+scanner.nextLine()+"</li>");
 //				System.out.print(fieldNameString + "\t\t");
 //			}
 //			System.out.println();
-			
+
 			System.out.println("Product Id\t\tProduct Name\t\tPrice");
-			
-			for(ProductModel productModel : productModels) {
+
+			for (ProductModel productModel : productModels) {
 //				System.err.println("Iterate");
 				System.out.println(productModel);
 			}
@@ -136,67 +142,5 @@ System.err.println("<li>"+scanner.nextLine()+"</li>");
 			System.err.println(">>>>  " + exception);
 			exception.printStackTrace();
 		}
-	}
-}
-
-//Classes encapsulate data members (fields, attributes) and methods (functions, routines)
-class ProductModel {
-	// member fields
-	private String productId;
-	private String productName;
-	private float price;
-
-	// overloading : multiple methods with same name but different signature (no,
-	// order, type of arguments)
-	// default constructor
-	public ProductModel() {
-		productId = "P01";
-		productName = "Laptop";
-		price = 500.50f;
-	}
-
-	public ProductModel(String productId, String productName, float price) {
-		super();
-		this.productId = productId;
-		this.productName = productName;
-		this.price = price;
-	}
-
-	public String getProductId() {
-		return productId;
-	}
-
-	public void setProductId(String productId) {
-		this.productId = productId;
-	}
-
-	public String getProductName() {
-		return productName;
-	}
-
-	public void setProductName(String productName) {
-		this.productName = productName;
-	}
-
-	public float getPrice() {
-		return price;
-	}
-
-	public void setPrice(float price) {
-		this.price = price;
-	}
-
-	// member functions
-	public void displayDetails() {
-		System.out.println(productId);
-		System.out.println(productName);
-		System.out.println(price);
-	}
-
-	@Override
-	public String toString() {
-//		String productModelString = "Pid : " + productId + "\nName : " + productName + "\nPrice : " + price;
-		String productModelString =  productId + "\t\t\t" + productName + "\t\t" + price;
-		return productModelString;
 	}
 }

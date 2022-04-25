@@ -1,0 +1,1449 @@
+                <p>Roboto</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Yusei Magic</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Potta One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Noto Sans JP</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Lato</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Fraunces</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Montserrat</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Roboto Condensed</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Imbue</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Source Sans Pro</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Oswald</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Roboto Mono</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Hachi Maru Pop</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Raleway</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>PT Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Bodoni Moda</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Ubuntu</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Roboto Slab</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Merriweather</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Playfair Display</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Nunito</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Lora</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>PT Serif</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Rubik</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Noto Sans KR</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Noto Serif</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Hind Siliguri</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Work Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Nanum Gothic</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Fira Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Noto Sans TC</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Nunito Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Quicksand</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Titillium Web</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Chakra Petch</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Karla</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Heebo</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Barlow</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Oxygen</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>PT Sans Narrow</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Arimo</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Inter</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Josefin Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Dosis</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Syne</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Anton</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Libre Franklin</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Libre Baskerville</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Inconsolata</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Cabin</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Crimson Text</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Yanone Kaffeesatz</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Bitter</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Slabo 27px</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Lobster</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Noto Sans SC</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Gorditas</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Source Code Pro</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Dancing Script</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Fjalla One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>IBM Plex Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Abel</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Varela Round</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Source Serif Pro</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Catamaran</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Comfortaa</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Barlow Condensed</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Zilla Slab</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Cairo</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Asap</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Pacifico</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Antic Slab</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Maven Pro</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Hind Madurai</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Abril Fatface</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Shadows Into Light</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Archivo Narrow</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Arvo</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Staatliches</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Play</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Indie Flower</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Exo 2</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>EB Garamond</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Kanit</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Merriweather Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Balsamiq Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Noto Sans HK</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Questrial</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Overpass</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Prompt</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>DM Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Bebas Neue</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Assistant</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Acme</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Mukta Vaani</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Amatic SC</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Permanent Marker</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>IBM Plex Serif</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Padauk</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Domine</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Fira Sans Condensed</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Architects Daughter</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Caveat</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Tajawal</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Cormorant Garamond</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Cantarell</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Signika</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Alfa Slab One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Noto Serif JP</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Bree Serif</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Exo</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Satisfy</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Hanalei</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Fredoka One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Righteous</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Saira Condensed</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Archivo</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Amiri</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Nanum Myeongjo</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>PT Sans Caption</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Cinzel</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Vollkorn</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Monda</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Patua One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Courgette</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Barlow Semi Condensed</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Crete Round</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Mulish</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Spartan</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>JetBrains Mono</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Ubuntu Condensed</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>M PLUS Rounded 1c</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Frank Ruhl Libre</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Alegreya Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>ABeeZee</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Lobster Two</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Francois One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Carter One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Archivo Black</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>M PLUS 1p</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Patrick Hand</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Tinos</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Kaushan Script</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Cardo</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Alegreya</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Great Vibes</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Concert One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Rokkitt</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Cuprum</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Russo One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Pathway Gothic One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Gloria Hallelujah</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Sacramento</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Didact Gothic</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>IBM Plex Mono</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Noticia Text</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Prata</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Old Standard TT</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Orbitron</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Quattrocento Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Chivo</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Passion One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Encode Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Sarabun</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Manrope</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Ultra</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Secular One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Volkhov</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Hind Guntur</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Asap Condensed</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Playfair Display SC</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>News Cycle</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Ramabhadra</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Changa</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Montserrat Alternates</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Josefin Slab</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Squada One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Yellowtail</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Cookie</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Sawarabi Mincho</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Special Elite</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Ropa Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Parisienne</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Sigmar One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Quattrocento</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Fira Sans Extra Condensed</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Press Start 2P</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Philosopher</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Cormorant</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Arapey</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Andika New Basic</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Hind Vadodara</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Saira</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Poiret One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Spectral</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Noto Serif TC</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Hammersmith One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Vidaloka</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Handlee</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Sanchez</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Advent Pro</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Overlock</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Bangers</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Public Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Neuton</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Istok Web</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>DM Serif Display</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Taviraj</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Original Surfer</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Jura</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Jost</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Texturina</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Neucha</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Ruda</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Merienda</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Luckiest Guy</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Unica One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Economica</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Monoton</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Damion</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Space Mono</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Gudea</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Faustina</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Red Hat Display</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Cabin Condensed</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Gothic A1</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Yeseva One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>BenchNine</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Gentium Basic</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Alice</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Tangerine</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Pontano Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Viga</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Sawarabi Gothic</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Unna</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Varela</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Homemade Apple</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Julius Sans One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Armata</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>El Messiri</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Suez One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Gruppo</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Adamina</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Saira Semi Condensed</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Sofia</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Actor</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Amaranth</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Itim</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Rock Salt</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Quantico</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Alef</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Bad Script</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Aleo</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Gentium Book Basic</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Allan</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Playball</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Marck Script</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Nerko One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Antic</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Markazi Text</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Paytone One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Castoro</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Lusitana</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Tenor Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>PT Mono</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Bungee</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Allura</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Audiowide</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Gochi Hand</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Electrolize</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Noto Serif SC</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Sorts Mill Goudy</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Mitr</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Marcellus</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Fugaz One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Mali</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Black Ops One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Nothing You Could Do</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Signika Negative</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Cantata One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Baloo Chettan 2</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Nanum Gothic Coding</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Abhaya Libre</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Alex Brush</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Encode Sans Condensed</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Lateef</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Gelasio</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Nanum Pen Script</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Big Shoulders Stencil Text</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Big Shoulders Inline Text</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Big Shoulders Stencil Display</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Big Shoulders Inline Display</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Ubuntu Mono</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Bai Jamjuree</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Average</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Aclonica</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Shadows Into Light Two</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Oleo Script</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Rufina</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Krub</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Arsenal</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Pridi</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Sintony</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Libre Barcode EAN13 Text</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Lilita One</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Cutive Mono</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Lalezar</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Mr Dafoe</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Covered By Your Grace</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Pinyon Script</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Alata</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Kosugi Maru</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Chewy</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Crimson Pro</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Coda</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Reem Kufi</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>DM Serif Text</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Niconne</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Averia Serif Libre</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Rancho</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Mada</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Yrsa</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Italianno</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Syncopate</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Space Grotesk</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Schoolbell</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Share Tech Mono</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Boogaloo</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Alegreya Sans SC</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>PT Serif Caption</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Saira Extra Condensed</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Forum</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Kreon</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Annie Use Your Telescope</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Sriracha</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Arbutus Slab</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Basic</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Capriola</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Fredericka the Great</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Allerta</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+        </ul>
+        <h2 class="font-type">Devanagari Fonts</h2>
+        <ul id="devanagari">
+
+                <p>Poppins</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Noto Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Mukta</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Teko</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Hind</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Rajdhani</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Martel</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Yantramanav</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Kalam</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Baloo 2</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Pragati Narrow</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Karma</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Khand</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Jaldi</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Khula</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Palanquin</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Rhodium Libre</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Sarala</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Laila</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Glegoo</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Eczar</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
+
+
+                <p>Martel Sans</p>
+                <p style="font-family: 'Open Sans'; font-size: large;">Almost before we <br>knew it, we had left <br> the ground.</p>
