@@ -2,6 +2,9 @@ package com.demo.model;
 
 import java.io.Serializable;
 
+//interface ProductModel {
+//	
+//}
 //Classes encapsulate data members (fields, attributes) and methods (functions, routines)
 public class ProductModel extends Object implements Serializable{
 		// member fields
