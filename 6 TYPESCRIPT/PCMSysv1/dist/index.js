@@ -57,3 +57,8 @@ let adder = (num1, num2) => {
     return `Result is ${num1 + num2}`;
 };
 console.log(adder(1, 2));
+var sprints;
+// Type 'number' is not assignable to type 'string'
+// sprints = ['java','junit','ts',150];
+sprints = ['java', 'junit', 'ts'];
+console.log(sprints);
