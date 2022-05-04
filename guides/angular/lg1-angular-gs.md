@@ -20,13 +20,16 @@
 
 :computer: **Setup**  
 
-EDITOR
+:point_right: editor  
+
 https://code.visualstudio.com/download
-NODE JS
+:point_right: nodejs  
+
 https://nodejs.org/dist/v16.14.2/node-v16.14.2-x64.msi
 https://git-scm.com/download/win
 
-COMMANDS
+:point_right: angular cli  
+
 ```sh
 node --version
 npm --version
@@ -49,4 +52,32 @@ ng new EFictiShopAngularSPA
 :point_right: run  
 ```sh
 ng serve
+```
+
+:point_right: server-data/employees.json
+  
+```json
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Ane",
+      "salary": 300
+    },
+    {
+      "id": 2,
+      "name": "Ben",
+      "salary": 400
+    }
+  ]
+}
+
+```
+
+
+:point_right: setup json server
+ 
+```sh
+npm install -g json-server
+json-server --watch employees.json
 ```
