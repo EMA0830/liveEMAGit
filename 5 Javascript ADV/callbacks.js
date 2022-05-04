@@ -25,32 +25,40 @@
 //    console.log(i);
 // }
 // },5000)
-var i = 0;
-while (i < 10) {
-  // block scoped variable
-  const iVal = i;
-  setTimeout(() => {
-    console.log(iVal);
-  }, i * 500);
-  i = i + 2;
+//asynchronous callback
+function matchService() {
+  console.log("match details");
 }
-var i = 1;
-while (i < 10) {
-  // block scoped variable
-  const iVal = i;
-  setTimeout(() => {
-    console.log(iVal);
-  }, i * 1000);
-  i = i + 2;
-}
+console.log("typing")
+setTimeout(matchService,15000);
+console.log("still typing.....")
+// var i = 0;
+// while (i < 10) {
+//   // block scoped variable
+//   const iVal = i;
+//   setTimeout(() => {
+//     console.log(iVal);
+//   }, i * 500);
+//   i = i + 2;
+// }
 
-// storing function in a variable
-var functionVar = function (a, b) {
-  console.log(a);
-  console.log(b);
-  result = a + b;
-  console.log(result);
-  console.log("************");
-};
+// var i = 1;
+// while (i < 10) {
+//   // block scoped variable
+//   const iVal = i;
+//   setTimeout(() => {
+//     console.log(iVal);
+//   }, i * 1000);
+//   i = i + 2;
+// }
 
-functionVar(1, 2);
+// // storing function in a variable
+// var functionVar = function (a, b) {
+//   console.log(a);
+//   console.log(b);
+//   result = a + b;
+//   console.log(result);
+//   console.log("************");
+// };
+
+// functionVar(1, 2);
