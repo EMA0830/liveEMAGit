@@ -40,3 +40,13 @@ npm cache clean
 //install angular client
 npm install -g @angular/cli@8.0.1
 npm install -g @angular/cli@latest
+```
+:point_right: create angular project
+  
+```sh
+ng new EFictiShopAngularSPA
+```
+:point_right: run  
+```sh
+ng serve
+```
