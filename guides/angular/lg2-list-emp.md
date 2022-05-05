@@ -40,7 +40,7 @@ import {Employee} from '../model/employee.model'
 @Injectable({
   providedIn: 'root',
 })
-class EmployeeService {
+export class EmployeeService {
    baseUrl : string = 'http://localhost:3000/employees'
   // Performs HTTP requests.
   constructor(private http: HttpClient) {
