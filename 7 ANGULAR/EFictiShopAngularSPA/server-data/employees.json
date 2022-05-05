@@ -9,6 +9,11 @@
       "id": 2,
       "name": "Ben",
       "salary": 400
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "salary": 4000
     }
   ]
 }

@@ -1,4 +1,4 @@
-:beginner: _**display the empoloyees**_  
+:beginner: _**display the employees**_  
 
 :one: _import HttpClientModule / app.module.ts_  
 ```ts
@@ -46,11 +46,53 @@ export class EmployeeService {
   constructor(private http: HttpClient) {
     
   }
+  // returns Observable
   getEmployees() {
      return this.http.get<Employee[]>(this.baseUrl);
   }
 }
 
 ```
+:four: _app.component.ts_  
+```ts
+import { Component, OnInit } from '@angular/core';
+import { Observable } from 'rxjs';
+import { Employee } from './model/employee.model';
+import { EmployeeService } from './service/employee.service';
+
+@Component({
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.css']
+})
+export class AppComponent implements OnInit{
+  title = 'EFictiShopAngularSPA';
+  employees?: Employee[];
+
+  constructor(private employeeService : EmployeeService) {
+  }
+
+  ngOnInit(): void {
+    this.employeeService.getEmployees().subscribe(
+      (data => {
+        this.employees = data;
+        console.log("DATA : " + data)
+      })
+    );
+  }
+}
+
+```
+
+:five: _app.component.html_  
+```ts
+<h1>Welcome to {{title}}</h1>
+<div *ngFor="let employee of employees">
+   {{employee.id}}
+   {{employee.name}}
+   {{employee.salary}}
+</div>
+```
+
 
   
