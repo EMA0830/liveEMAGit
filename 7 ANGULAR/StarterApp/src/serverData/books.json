@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "bookId": 1,
+      "bookName": "Rich dad poor dad",
+      "bookPrice": 450
+    },
+    {
+      "bookId": 2,
+      "bookName": "Rich dad poor dad part 2",
+      "bookPrice": 450
+    },
+    {
+        "bookId":3,
+        "bookName":"hello",
+        "bookPrice":300
+    }
+  ]
+}
+ 

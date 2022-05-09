@@ -1,0 +1,19 @@
+<h1>Welcome to {{title}}</h1>
+<table>
+    <thead>
+        <tr>
+<th>BookId</th>
+<th>BookName</th>
+<th>BookPrice</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- *ngFor is a structural directive. it changes the structure of the DOM -->
+        <tr *ngFor = "let book of books">
+            <!-- string interpolation read the value from property and reder it in the template -->
+            <td>{{book.bookId}}</td>
+            <td>{{book.bookName}}</td>
+            <td>{{book.bookPrice}}</td>
+        </tr>
+    </tbody>
+</table>
