@@ -5,7 +5,7 @@
 - a TypeScript-based 
 - free and open-source 
 - web application framework
-- used to create SPA
+- used to create SPA [Single Page Application]
 - by Google
 
 :point_right: SPA
