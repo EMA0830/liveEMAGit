@@ -8,20 +8,21 @@ import { EmployeeService } from './service/employee.service';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent implements OnInit{
+export class AppComponent {
+// export class AppComponent implements OnInit{
   title = 'EFictiShop Angular SPA';
-  employees?: Employee[];
+  // employees?: Employee[];
 
-  constructor(private employeeService : EmployeeService) {
-  }
+  // constructor(private employeeService : EmployeeService) {
+  // }
 
-  ngOnInit(): void {
-    this.employeeService.getEmployees().subscribe(
-      (data => {
-        this.employees = data;
-        console.log("DATA : " + data)
-      })
-    );
-  }
+  // ngOnInit(): void {
+  //   this.employeeService.getEmployees().subscribe(
+  //     (data => {
+  //       this.employees = data;
+  //       console.log("DATA : " + data)
+  //     })
+  //   );
+  // }
 
 }

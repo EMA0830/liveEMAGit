@@ -66,4 +66,16 @@ import { AppRoutingModule } from './app-routing.module';
 export class AppModule { }
 
 ```
-:four: _router outlet_  
+:four: _router outlet / AppComponent_  
+
+```html
+<h1> {{title}}</h1>
+<router-outlet></router-outlet>
+<!-- <div *ngFor="let employee of employees">
+   {{employee.id}}
+   {{employee.name}}
+   {{employee.salary}}
+</div> -->
+<!-- child component -->
+<!-- <app-add-emp></app-add-emp> -->
+```
