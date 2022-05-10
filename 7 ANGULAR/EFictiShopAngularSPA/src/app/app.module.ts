@@ -6,17 +6,22 @@ import { AppComponent } from './app.component';
 
 import { ReactiveFormsModule } from '@angular/forms';
 import { AddEmpComponent } from './add-emp/add-emp.component';
+import { ListEmpComponent } from './list-emp/list-emp.component';
+import { EditEmpComponent } from './edit-emp/edit-emp.component';
+import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
   declarations: [
     AppComponent,
     AddEmpComponent,
-
+    ListEmpComponent,
+    EditEmpComponent,
   ],
   imports: [
     BrowserModule,
     HttpClientModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

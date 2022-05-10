@@ -1,15 +1,14 @@
 import { Component, OnInit } from '@angular/core';
-import { Observable } from 'rxjs';
-import { Employee } from './model/employee.model';
-import { EmployeeService } from './service/employee.service';
+import { Employee } from '../model/employee.model';
+import { EmployeeService } from '../service/employee.service';
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  selector: 'app-list-emp',
+  templateUrl: './list-emp.component.html',
+  styleUrls: ['./list-emp.component.css']
 })
-export class AppComponent implements OnInit{
-  title = 'EFictiShop Angular SPA';
+export class ListEmpComponent implements OnInit {
+
   employees?: Employee[];
 
   constructor(private employeeService : EmployeeService) {
@@ -23,5 +22,4 @@ export class AppComponent implements OnInit{
       })
     );
   }
-
 }

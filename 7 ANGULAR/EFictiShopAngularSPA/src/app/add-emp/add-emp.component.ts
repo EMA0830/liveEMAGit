@@ -8,14 +8,16 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 })
 export class AddEmpComponent implements OnInit {
 
-  addEmpForm: FormGroup;
+  addForm: FormGroup;
   constructor(private formBuilder : FormBuilder) { }
 
   ngOnInit(): void {
-    this.addEmpForm = this.formBuilder.group({
+    this.addForm = this.formBuilder.group({
       id:[],
-      name: ['Sam',Validators.required,Validators.maxLength(5)],
-      salary: ['1000', [Validators.required]]
+      // name: ['Sam',Validators.required,Validators.maxLength(5)],
+      // salary: ['1000', [Validators.required]]
+      name: [],
+      salary : []
     });
   }
 
