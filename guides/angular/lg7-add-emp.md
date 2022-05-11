@@ -1,3 +1,23 @@
+:beginner: _**Add Emp & Reactive Forms**_  
+
+:point_right: Add Emp Component
+
+```html
+<br>
+<h4>Add Employee Details Form</h4>
+<br>
+<form [formGroup]="addForm">
+   Employee Id : 
+   <input type="text" formControlName="id" ><br><br>
+   Name : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <input type="text" formControlName="name" ><br><br>
+   Salary : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <input type="text" formControlName="salary" ><br><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <button class="btn btn-success" (click)="onSubmit()">Save</button>
+</form>
+
+```
+```ts
 import { ThisReceiver } from '@angular/compiler';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
@@ -37,3 +57,5 @@ export class AddEmpComponent implements OnInit {
       });
   }
 }
+
+```
