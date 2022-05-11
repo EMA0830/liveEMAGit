@@ -4,6 +4,7 @@
 ```sh
 $ ng generate component list-emp
 $ ng g c edit-emp
+$ ng g c add-emp
 ```
 :two: _create routing module_  
 ```ts
