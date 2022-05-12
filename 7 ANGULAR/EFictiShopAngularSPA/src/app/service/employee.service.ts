@@ -35,6 +35,6 @@ export class EmployeeService {
   // delete employee by id
   deleteEmployee(id:number) {
     // delete : delete data on server
-    return this.http.get<Employee>(this.baseUrl+'/' + id);
+    return this.http.delete<Employee>(this.baseUrl+'/' + id);
   }
 }

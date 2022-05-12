@@ -6,25 +6,30 @@ import { EmployeeService } from '../service/employee.service';
 @Component({
   selector: 'app-list-emp',
   templateUrl: './list-emp.component.html',
-  styleUrls: ['./list-emp.component.css']
+  styleUrls: ['./list-emp.component.css'],
 })
 export class ListEmpComponent implements OnInit {
-
   employees?: Employee[];
 
-  constructor(private employeeService : EmployeeService, private router:Router) {
-  }
+  constructor(
+    private employeeService: EmployeeService,
+    private router: Router
+  ) {}
 
   ngOnInit(): void {
-    this.employeeService.getEmployees().subscribe(
-      (data => {
-        this.employees = data;
-        console.log("DATA : " + data)
-      })
-    );
+    this.employeeService.getEmployees().subscribe((data) => {
+      this.employees = data;
+      console.log('DATA : ' + data);
+    });
   }
 
-  addEmp() : void {
-this.router.navigate(["add-emp"]);
+  addEmp(): void {
+    this.router.navigate(['add-emp']);
+  }
+
+  deleteEmp(employee: Employee): void {
+    this.employeeService.deleteEmployee(employee.id).subscribe((data) => {
+      this.employees = this.employees.filter((empDel) => empDel != employee);
+    });
   }
 }
