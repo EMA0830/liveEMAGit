@@ -6,13 +6,14 @@ import { RouterModule, Routes } from "@angular/router";
 import { AddEmpComponent } from "./add-emp/add-emp.component";
 import { EditEmpComponent } from "./edit-emp/edit-emp.component";
 import { ListEmpComponent } from "./list-emp/list-emp.component";
+import { LoginComponent } from "./login/login.component";
 
 export const routes : Routes = [
-   {path:'', component:ListEmpComponent},
+   {path:'', component:LoginComponent},
    {path:'list-emp', component:ListEmpComponent},
    {path:'add-emp', component:AddEmpComponent},
    {path:'edit-emp', component:EditEmpComponent},
-   {path:'**', component:ListEmpComponent},
+   {path:'**', component:LoginComponent},
 ]
 
 @NgModule({

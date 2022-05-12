@@ -9,6 +9,7 @@ import { AddEmpComponent } from './add-emp/add-emp.component';
 import { ListEmpComponent } from './list-emp/list-emp.component';
 import { EditEmpComponent } from './edit-emp/edit-emp.component';
 import { AppRoutingModule } from './app-routing.module';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
@@ -16,6 +17,7 @@ import { AppRoutingModule } from './app-routing.module';
     AddEmpComponent,
     ListEmpComponent,
     EditEmpComponent,
+    LoginComponent,
   ],
   imports: [
     BrowserModule,
