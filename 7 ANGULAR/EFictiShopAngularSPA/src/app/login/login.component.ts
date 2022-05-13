@@ -18,10 +18,10 @@ export class LoginComponent implements OnInit {
 
   ngOnInit(): void {
     this.loginForm = this.formBuilder.group({
-      // loginid: ["teddy"],
-      // password: ["bear"],
-      loginid: [],
-      password: [],
+      loginid: ["teddy"],
+      password: ["bear"],
+      // loginid: [],
+      // password: [],
     });
   }
 
@@ -35,6 +35,7 @@ export class LoginComponent implements OnInit {
     const password : string = this.loginForm.controls['password'].value;
 
     if(loginid == 'teddy' && password == "bear"){
+      sessionStorage.setItem('loggedIn','yes');
       this.router.navigate(['list-emp']);
     }
     else

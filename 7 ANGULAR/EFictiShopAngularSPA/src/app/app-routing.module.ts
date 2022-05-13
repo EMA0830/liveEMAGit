@@ -7,12 +7,14 @@ import { AddEmpComponent } from "./add-emp/add-emp.component";
 import { EditEmpComponent } from "./edit-emp/edit-emp.component";
 import { ListEmpComponent } from "./list-emp/list-emp.component";
 import { LoginComponent } from "./login/login.component";
+import { AuthGuard } from "./service/auth.guard";
 
 export const routes : Routes = [
    {path:'', component:LoginComponent},
-   {path:'list-emp', component:ListEmpComponent},
-   {path:'add-emp', component:AddEmpComponent},
-   {path:'edit-emp', component:EditEmpComponent},
+   {path:'login', component:LoginComponent},
+   {path:'list-emp', component:ListEmpComponent, canActivate :[AuthGuard]},
+   {path:'add-emp', component:AddEmpComponent,canActivate : [AuthGuard]},
+   {path:'edit-emp', component:EditEmpComponent,canActivate : [AuthGuard]},
    {path:'**', component:LoginComponent},
 ]
 
