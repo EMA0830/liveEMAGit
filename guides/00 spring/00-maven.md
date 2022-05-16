@@ -205,8 +205,8 @@ public class CalculatorTest {
 
 ```
  
-:computer: **run tests**  
+:computer: **clean compile test package**  
 
 ```java
-mvn clean compile test
+mvn clean compile test package
 ```
