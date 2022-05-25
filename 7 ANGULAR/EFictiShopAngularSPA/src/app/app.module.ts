@@ -4,12 +4,13 @@ import {HttpClientModule} from '@angular/common/http';
 
 import { AppComponent } from './app.component';
 
-import { ReactiveFormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { AddEmpComponent } from './add-emp/add-emp.component';
 import { ListEmpComponent } from './list-emp/list-emp.component';
 import { EditEmpComponent } from './edit-emp/edit-emp.component';
 import { AppRoutingModule } from './app-routing.module';
 import { LoginComponent } from './login/login.component';
+import { AddEmpTempDrivenComponent } from './add-emp-temp-driven/add-emp-temp-driven.component';
 
 @NgModule({
   declarations: [
@@ -18,11 +19,15 @@ import { LoginComponent } from './login/login.component';
     ListEmpComponent,
     EditEmpComponent,
     LoginComponent,
+    AddEmpTempDrivenComponent,
   ],
   imports: [
     BrowserModule,
     HttpClientModule,
+    // Reactive Forms
     ReactiveFormsModule,
+    // Template Driven Forms
+    FormsModule,
     AppRoutingModule
   ],
   providers: [],
