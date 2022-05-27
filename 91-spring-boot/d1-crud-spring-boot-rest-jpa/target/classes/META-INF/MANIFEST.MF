@@ -1,5 +1,6 @@
 Manifest-Version: 1.0
-Built-By: Enzo
-Build-Jdk: 16.0.2
+Build-Jdk-Spec: 16
+Implementation-Title: d1-crud-spring-boot-rest-jpa
+Implementation-Version: 0.0.1-SNAPSHOT
 Created-By: Maven Integration for Eclipse
 
