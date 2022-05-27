@@ -42,6 +42,7 @@ mvn archetype:generate -DgroupId=com.demo -DartifactId=demo-maven-java-project -
 
 mvn archetype:generate -DgroupId=com.demo -DartifactId=d1-spring-IOC-annotations -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 
+mvn archetype:generate -DgroupId=com.demo -DartifactId=d1-crud-spring-boot-rest-jpa -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 ```
 :six: _configure pom for java 1.8 and compile project_
 ```sh
