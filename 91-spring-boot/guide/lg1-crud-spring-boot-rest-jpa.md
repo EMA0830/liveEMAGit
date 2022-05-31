@@ -2,10 +2,11 @@
 
 
 :book: **setup**  
+- mysql /SBDB
+- spring boot  : dmp-sb-ng-rest-jpa-hib-crud
 
-```sh
-$ mvn archetype:generate -DgroupId=com.demo -DartifactId=d1-crud-spring-boot-rest-jpa -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+:point_right: mvn proj
+- sts > spring boot starter project
 
-```
-:book: **config mvn**  
+:point_right: dependencies  
 

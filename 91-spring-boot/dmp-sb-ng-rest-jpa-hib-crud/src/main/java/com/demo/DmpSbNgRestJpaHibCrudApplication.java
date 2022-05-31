@@ -4,8 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class D1CrudSpringBootRestJpaApplication {
+public class DmpSbNgRestJpaHibCrudApplication {
+
 	public static void main(String[] args) {
-		SpringApplication.run(D1CrudSpringBootRestJpaApplication.class, args);
+		SpringApplication.run(DmpSbNgRestJpaHibCrudApplication.class, args);
 	}
 }
