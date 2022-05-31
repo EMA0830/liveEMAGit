@@ -20,7 +20,8 @@ public class Employee {
 	private String lastName;
 	@Column(name="EMAIL_ADDRESS", nullable = false)
 	private String emailId;
-	
+
+	//default cons
 	public Employee() {
 		
 	}
@@ -32,8 +33,6 @@ public class Employee {
 		this.lastName = lastName;
 		this.emailId = emailId;
 	}
-
-
 
 
 	public long getId() {
