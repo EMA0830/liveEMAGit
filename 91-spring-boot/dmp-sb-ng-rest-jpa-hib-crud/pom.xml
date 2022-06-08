@@ -45,14 +45,12 @@
 		</dependency>
 		<!-- Provides fast application restarts, LiveReload, and configurations 
 			for enhanced development experience. -->
-
-
-		<dependency>
+<!-- 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 			<scope>runtime</scope>
 			<optional>true</optional>
-		</dependency>
+		</dependency> -->
 		<!-- Java annotation library which helps to reduce boilerplate code. -->
 		<!-- <dependency> <groupId>org.projectlombok</groupId> <artifactId>lombok</artifactId> 
 			<optional>true</optional> </dependency> -->

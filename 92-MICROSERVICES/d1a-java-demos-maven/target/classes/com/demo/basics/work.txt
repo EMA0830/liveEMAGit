@@ -1,0 +1,3 @@
+shortest string
+palindrome - malayalam
+store string in ascending order
