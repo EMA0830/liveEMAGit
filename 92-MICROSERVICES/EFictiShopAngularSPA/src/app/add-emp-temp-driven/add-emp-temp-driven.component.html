@@ -1,0 +1,26 @@
+<br>
+<h4>Add Employee Details Form</h4>
+<br>
+<form #addForm="ngForm" (ngSubmit)="onSubmit(addForm.value)">
+   <!-- <form [formGroup]="addForm"> -->
+   <!-- Employee Id :  -->
+   <!-- <input type="hidden" formControlName="id" ><br><br>
+   Name : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+   <!-- <input type="text" formControlName="name" ><br><br> -->
+
+   FirstName : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <input type="text" required ngModel minlength="3" maxlength="7" #firstName="ngModel" name="firstName"><br><br>
+
+   Salary : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <input type="text" ngModel #salary="ngModel" name="salary"><br><br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <!-- <button class="btn btn-success" (click)="onSubmit()">Save</button> -->
+   <button class="btn btn-success" type="submit" [class.disabled]="!addForm.valid"> Save</button>
+   <br><br><br>
+   <div class="alert alert-danger" *ngIf="firstName.touched && !firstName.valid">
+      <div *ngIf="firstName.errors && firstName.errors['required']">First Name cannot be blank</div>
+      <div *ngIf="firstName.errors && firstName.errors['minlength']">First Name cannot be be lesser  than 3 chars</div>
+      <div *ngIf="firstName.errors && firstName.errors['maxlength']">First Name cannot be be greater than 7 chars</div>
+   </div>
+
+</form>

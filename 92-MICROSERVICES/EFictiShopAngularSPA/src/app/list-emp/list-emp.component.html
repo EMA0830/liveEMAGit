@@ -1,0 +1,34 @@
+<br><br>
+<div class="container">
+ 
+   <!-- event / actions like mouse click / (click) event binding -->
+   <button (click)="addEmp()" class="btn btn-info">Add Employee</button>
+   <br><br>
+   <h4>Employee Details</h4>
+   <div>
+      <div  class="table-striped" style="width:500px">
+         <table class="table">
+            <thead>
+               <tr>
+                  <th>Id</th>
+                  <th>Name</th>
+                  <th>Salary</th>
+               </tr>
+            </thead>
+            <tbody>
+               <tr *ngFor="let employee of employees">
+                  <td> {{employee.id}}</td>
+                  <td>{{employee.name}}</td>
+                  <td> {{employee.salary}}</td>
+                  <td><button class="btn btn-danger" (click)="deleteEmp(employee)">Delete</button></td>
+               </tr>
+            </tbody>
+         </table>
+      </div>   
+   </div>
+</div>
+<!-- <div *ngFor="let employee of employees">
+   {{employee.id}}
+   {{employee.name}}
+   {{employee.salary}}
+</div> -->
