@@ -11,6 +11,7 @@ import { EditEmpComponent } from './edit-emp/edit-emp.component';
 import { AppRoutingModule } from './app-routing.module';
 import { LoginComponent } from './login/login.component';
 import { AddEmpTempDrivenComponent } from './add-emp-temp-driven/add-emp-temp-driven.component';
+import { NgListEmpComponent } from './ng-list-emp/ng-list-emp.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { AddEmpTempDrivenComponent } from './add-emp-temp-driven/add-emp-temp-dr
     EditEmpComponent,
     LoginComponent,
     AddEmpTempDrivenComponent,
+    NgListEmpComponent
   ],
   imports: [
     BrowserModule,
