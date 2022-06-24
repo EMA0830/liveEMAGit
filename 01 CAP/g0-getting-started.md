@@ -11,3 +11,18 @@
 - https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows
 - draw.io
 - markdown documentation
+
+:beginner: _**Angular**_
+
+AppComponent
+HomeComponent > Register
+RegistrationComponent > Reactive Forms > UserName, Password
+RegistrationService
+-- AuthGuard
+
+:beginner: _**Spring boot**_  
+
+JobHuntingDB / USERS USER_ID, USER_NAME, PASSWORD
+RegistrationController
+RegistrationRepository
+User (Entity userId, userName, Password)
